@@ -5,7 +5,7 @@ Overview of data and services for public transport in Germany
 |:--- |:--- |:--- |:---
 |[VBN](https://www.vbn.de/) |GTFS |user registration |[Entwicklerinfos](https://www.vbn.de/service/entwicklerinfos/), [web portal](https://www.connect-fahrplanauskunft.de/index.php?id=opendata)
 |[VBN](https://www.vbn.de/) |[GTFS RT](GTFS_RT.md) |open data |[Entwicklerinfos](https://www.vbn.de/service/entwicklerinfos/)
-|[VBN](https://www.vbn.de/) |OpenTripPlaner |access through API key |[Entwicklerinfos](https://www.vbn.de/service/entwicklerinfos/)
+|[VBN](https://www.vbn.de/) |OpenTripPlaner |request API key via email |[Entwicklerinfos](https://www.vbn.de/service/entwicklerinfos/)
 |[AVV](https://avv.de) |HAFAS ReST API |access by signing user agreement |
 |[VRS](https://www.vrs.de/) |GTFS |access by signing user agreement |[VRS Open Data /Open Service](https://www.vrs.de/fahren/fahrplanauskunft/opendata-/-openservice)
 |[VRS](https://www.vrs.de/) |GTFS Realtime |access by signing user agreement |[VRS Open Data /Open Service](https://www.vrs.de/fahren/fahrplanauskunft/opendata-/-openservice)

@@ -1,13 +1,17 @@
 # de-pt-shared-data
-Overview of shared data for public transport in Germany
+Overview of data and services for public transport in Germany
 
-|Organization |Interface |Availability |Description
+|Organization |Data |Access |Sources
 |:--- |:--- |:--- |:---
-|VBN |GTFS |access by user registration |[Entwicklerinfos](https://www.vbn.de/service/entwicklerinfos/). Digital (shared) data processing behind [web portal](https://www.connect-fahrplanauskunft.de/index.php?id=opendata).
-|VBN |GTFS Realtime |open data |[Entwicklerinfos](https://www.vbn.de/service/entwicklerinfos/). At the time of writing (3. Mai 2021) the VBN provides about 2600 `TripUpdate` but neither `VehiclePosition` or `Alert` entities.
-|VBN |OpenTripPlaner |access through API key |[Entwicklerinfos](https://www.vbn.de/service/entwicklerinfos/)
-|AVV |HAFAS ReST API |access by signing user agreement |
-|VRS |GTFS |access by signing user agreement |[VRS Open Data /Open Service](https://www.vrs.de/fahren/fahrplanauskunft/opendata-/-openservice)
-|VRS |GTFS Realtime |access by signing user agreement |[VRS Open Data /Open Service](https://www.vrs.de/fahren/fahrplanauskunft/opendata-/-openservice)
-|VRS |ASS |access by signing user agreement |[VRS Open Data /Open Service](https://www.vrs.de/fahren/fahrplanauskunft/opendata-/-openservice)
-|VRS |TRIAS |access by signing user agreement |[VRS Open Data /Open Service](https://www.vrs.de/fahren/fahrplanauskunft/opendata-/-openservice)
+|[VBN](https://www.vbn.de/) |GTFS |user registration |[Entwicklerinfos](https://www.vbn.de/service/entwicklerinfos/), [web portal](https://www.connect-fahrplanauskunft.de/index.php?id=opendata)
+|[VBN](https://www.vbn.de/) |[GTFS RT](GTFS_RT.md) |open data |[Entwicklerinfos](https://www.vbn.de/service/entwicklerinfos/)
+|[VBN](https://www.vbn.de/) |OpenTripPlaner |access through API key |[Entwicklerinfos](https://www.vbn.de/service/entwicklerinfos/)
+|[AVV](https://avv.de) |HAFAS ReST API |access by signing user agreement |
+|[VRS](https://www.vrs.de/) |GTFS |access by signing user agreement |[VRS Open Data /Open Service](https://www.vrs.de/fahren/fahrplanauskunft/opendata-/-openservice)
+|[VRS](https://www.vrs.de/) |GTFS Realtime |access by signing user agreement |[VRS Open Data /Open Service](https://www.vrs.de/fahren/fahrplanauskunft/opendata-/-openservice)
+|[VRS](https://www.vrs.de/) |ASS |access by signing user agreement |[VRS Open Data /Open Service](https://www.vrs.de/fahren/fahrplanauskunft/opendata-/-openservice)
+|[VRS](https://www.vrs.de/) |TRIAS |access by signing user agreement |[VRS Open Data /Open Service](https://www.vrs.de/fahren/fahrplanauskunft/opendata-/-openservice)
+|[VRN](https://www.vrn.de/) |GTFS |user registration |[Open Data Portal](https://www.vrn.de/opendata/)
+|[VRN](https://www.vrn.de/) |[GTFS RT](GTFS_RT.md) |user registration |[Open Data Portal](https://www.vrn.de/opendata/)
+|[VRN](https://www.vrn.de/) |VDV 452 |open data |static network and timetable data
+|[VRN](https://www.vrn.de/) |TRIAS |user agreement and registration |[API](https://www.vrn.de/opendata/API)

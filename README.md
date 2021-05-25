@@ -16,3 +16,5 @@ Overview of data and services for public transport in Germany
 |[VRN](https://www.vrn.de/) |[GTFS RT](GTFS_RT.md) |user registration |[Open Data Portal](https://www.vrn.de/opendata/)
 |[VRN](https://www.vrn.de/) |VDV 452 |open data |static network and timetable data
 |[VRN](https://www.vrn.de/) |TRIAS |usage agreement and user registration |[API](https://www.vrn.de/opendata/API)
+|[VVS](https://www.vvs.de/) |GTFS |open data |[URL](https://www.openvvs.de/dataset/e66f03e4-79f2-41d0-90f1-166ca609e491/resource/bfbb59c7-767c-4bca-bbb2-d8d32a3e0378/download/google_transit.zip)
+|[VVS](https://www.vvs.de/) |TRIAS |usage agreement and user account |[API](https://openvvs.de/pages/api)

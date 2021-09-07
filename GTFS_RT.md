@@ -1,5 +1,5 @@
 # GTFS Realtime (RT)
-Overview of data available in the GTFS RT format.
+Overview of shared data available in the GTFS RT format.
 
 |Organization |TripUpdate |VehiclePosition |Alert |Details
 |:--- |:--- |:--- |:--- |:---

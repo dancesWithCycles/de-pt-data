@@ -1,5 +1,7 @@
 # de-pt-shared-data
-Overview of data and services for public transport in Germany
+This repository service as a one stop shop of shared data and service for public transport in Germany.
+
+## Overview of Shared Data and Services
 
 |Organization |Data |Access |Sources
 |:--- |:--- |:--- |:---
@@ -18,3 +20,15 @@ Overview of data and services for public transport in Germany
 |[VRN](https://www.vrn.de/) |TRIAS |usage agreement and user registration |[API](https://www.vrn.de/opendata/API)
 |[VVS](https://www.vvs.de/) |GTFS |open data |[URL](https://www.openvvs.de/dataset/e66f03e4-79f2-41d0-90f1-166ca609e491/resource/bfbb59c7-767c-4bca-bbb2-d8d32a3e0378/download/google_transit.zip)
 |[VVS](https://www.vvs.de/) |TRIAS |usage agreement and user account |[API](https://openvvs.de/pages/api)
+
+## Links to Other Sources of Shared Data and Services
+
+[MobiData BW](https://www.mobidata-bw.de/)
+
+[Offene Daten Konstanz](https://offenedaten-konstanz.de/)
+
+[Open Data ÖPNV](opendata-oepnv.de)
+
+[GTFS Publikationen der MFDZ](gtfs.mfdz.de)
+
+[dystone](https://github.com/dystonse/dystonse/blob/master/project-status/Datenquellen.md)
